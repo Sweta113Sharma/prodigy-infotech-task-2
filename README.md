@@ -1,4 +1,4 @@
-# prodigy-infotech-task-2
+# PRODIGY_ST_02
 Test case 2
 Test a simple web page across different browsers (e.g. chrome, firefox, safari, Edge) and devices (e.g. desktop, tablet, mobile).Check for the layout issues, broken links and functionality discrepancies. 
 
